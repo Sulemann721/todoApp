@@ -1,0 +1,15 @@
+.main{
+    
+    width: 500px;
+    height: 500px;
+    background-color: lightgreen;
+    margin: 10px auto;
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 10px;
+    background-color: lightslategray;
+    border: none;
+    border-radius: 2px;
+
+}
